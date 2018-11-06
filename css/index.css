@@ -1,0 +1,19 @@
+html {
+  background: #121212;
+}
+h1 {
+  color: rgb(211, 192, 19);
+  text-align: center;
+  margin-top: 10%;
+  font-family: "Spicy Rice", cursive;
+  font-family: "Poor Story", cursive;
+  font-size: 80px;
+}
+body {
+  margin-top: 70px;
+  background: #333;
+  color: #fff;
+}
+.container {
+  color: #121212;
+}
